@@ -34,7 +34,7 @@ This is a simple Flask API that matches a provided face (via an image URL) with 
 
 ### Running the Application
 
-Start the Flask server:
+Start the Flask server:-
 
 ```
 python application.py
